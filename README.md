@@ -35,8 +35,6 @@ The processed data is organized into Bronze, Silver, and Gold layers, stored in 
 
 The Power BI dashboard provides insights into customer sentiment, review volume, product categories, customer demographics, and potential sources of negative feedback.
 
-> **Note:** Place your actual dashboard screenshot in the repository root and name it `dashboard.png`.
-
 ---
 
 ## System Architecture
