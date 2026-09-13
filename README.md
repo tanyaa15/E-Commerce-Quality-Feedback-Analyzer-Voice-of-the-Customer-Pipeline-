@@ -33,8 +33,6 @@ The processed data is organized into Bronze, Silver, and Gold layers, stored in 
 ## Executive Dashboard
 <img width="1197" height="670" alt="image" src="https://github.com/user-attachments/assets/039968d3-98f7-4606-abc0-369181ee00bc" />
 
-![Dashboard Screenshot](dashboard.png)
-
 The Power BI dashboard provides insights into customer sentiment, review volume, product categories, customer demographics, and potential sources of negative feedback.
 
 > **Note:** Place your actual dashboard screenshot in the repository root and name it `dashboard.png`.
